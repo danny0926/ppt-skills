@@ -1,0 +1,11 @@
+# Local files
+linkedin-profile-raw.html
+linkedin-profile-data.json
+linkedin-profile-clean.txt
+linkedin-profile-text.txt
+extract_linkedin.py
+*.pdf
+bk/
+.claude/
+resumes/
+linkedin-*.md
