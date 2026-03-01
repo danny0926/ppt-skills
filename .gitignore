@@ -8,4 +8,6 @@ extract_linkedin.py
 bk/
 .claude/
 resumes/
+slides_tmp/
+slides_*_test/
 linkedin-*.md
